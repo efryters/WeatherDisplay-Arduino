@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "C:\\arduino-1.8.1\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\arduino-1.8.1\\hardware\\arduino\\avr\\libraries",
+                "C:\\arduino-1.8.1\\hardware\\arduino\\avr\\variants\\standard",
+                "C:\\arduino-1.8.1\\libraries",
+                "C:\\arduino-1.8.1\\libraries"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ]
+}

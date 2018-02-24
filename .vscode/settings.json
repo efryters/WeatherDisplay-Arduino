@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "arduino.idePath": "C:\\arduino-1.8.1",
+    "arduino.libraryPath": "C:\\arduino-1.8.1\\libraries",
+    "arduino.serialPort": "COM3"
+}
